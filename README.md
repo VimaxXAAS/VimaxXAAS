@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Vivek Yadav, PhD - Horticultural Genomics" width="100%" />
+<img src="./banner.png" alt="Vivek Yadav, PhD - Horticultural Genomics" width="100%" />
 
 <br><br>
 
