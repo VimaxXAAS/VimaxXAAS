@@ -1,13 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=163622&amp;height=220&amp;section=header&amp;text=Vivek%20Yadav,%20PhD&amp;fontSize=38&amp;fontAlignY=46&amp;desc=Horticultural%20Genomics%20and%20Multi-Omics%20Specialist%20%7C%20Xinjiang%20Academy%20of%20Agricultural%20Sciences&amp;descSize=14&amp;descAlignY=66&amp;fontColor=ffffff&amp;stroke=489b64&amp;strokeWidth=2" width="100%" alt="Vivek Yadav, PhD Header" />
+<img src="banner.png" alt="Vivek Yadav, PhD - Horticultural Genomics" width="100%" />
 
-<br>
+<br><br>
 
-<p align="center">
-  <i>🍇 Grapevine Genomics &nbsp;•&nbsp; 🧬 Haplotype Assembly &nbsp;•&nbsp; 🍄 Biotic Stress &nbsp;•&nbsp; 🧪 Multi-Omics &nbsp;•&nbsp; 🍷 Berry Quality</i>
-</p>
- 
 [![Website](https://img.shields.io/badge/Website-vimaxxaas.github.io-1b4d2b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vimaxxaas.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-2842_Citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=y1F7RiUAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8259--6706-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8259-6706)
