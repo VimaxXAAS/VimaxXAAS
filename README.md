@@ -35,8 +35,8 @@ I investigate the genetic architecture, evolutionary history, and stress adaptat
 #### 2026
 * **Corresponding author.** Cheng, Y., **Yadav, V.**, and Zhang, C. *VviWRKY50*-Mediated Repression of *VviPME39* Underpins Gibberellin-Induced Resistance to Fruit Cracking in Grape. *Plant, Cell & Environment*. [doi:10.1111/pce.70720](https://doi.org/10.1111/pce.70720)
 * **First author.** **Yadav, V.**, Wang, H., Zhang, F., et al. Rootstock-enhanced gray mold resistance through phytohormonal crosstalk and transcriptional reprogramming. *Plant Physiology and Biochemistry* 236:111430. [doi:10.1016/j.plaphy.2026.111430](https://doi.org/10.1016/j.plaphy.2026.111430)
-* **Corresponding author.** Zhang, C., Lyu, S., **Yadav, V.** Multi-Variety Metabolomic Profiling Uncovers Conserved and Divergent Metabolites Underlying Antioxidant Potential in Grape Dehydration. *Applied Food Research*, 102284.
-* **Corresponding author.** Zhang, C., Lyu, S., **Yadav, V.** Untargeted Metabolomics Reveals Color-Dependent Nutritional Variation in Raisins: Insights into Composition and Antioxidant Capacity. *Antioxidants* 15:401.
+* **Corresponding author.** Zhang, C., Lyu, S., **Yadav, V.** Multi-Variety Metabolomic Profiling Uncovers Conserved and Divergent Metabolites Underlying Antioxidant Potential in Grape Dehydration. *Applied Food Research*, 102284. [doi:10.1016/j.pmpp.2025.102628](https://doi.org/10.1016/j.afres.2026.102284)
+* **Corresponding author.** Zhang, C., Lyu, S., **Yadav, V.** Untargeted Metabolomics Reveals Color-Dependent Nutritional Variation in Raisins: Insights into Composition and Antioxidant Capacity. *Antioxidants* 15:401. [doi:10.1016/j.pmpp.2025.102628](https://doi.org/10.3390/antiox15030401)
 
 #### 2025
 * **First author.** **Yadav, V.**, Zhang, F., Wang, H., et al. Identification of trihelix transcription factors in grapevine and expression dynamics in response to biotic stress and hormone treatment. *Physiological and Molecular Plant Pathology* 137:102628. [doi:10.1016/j.pmpp.2025.102628](https://doi.org/10.1016/j.pmpp.2025.102628)
