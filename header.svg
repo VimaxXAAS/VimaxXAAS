@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 260" width="100%" height="260">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2617" />
+      <stop offset="55%" stop-color="#1b4327" />
+      <stop offset="100%" stop-color="#2a6039" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.3" />
+    </filter>
+  </defs>
+
+  <!-- Background Canvas -->
+  <rect width="850" height="260" rx="16" fill="url(#bg)" />
+
+  <!-- Wave & Genome Motif Lines -->
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1.8">
+    <path d="M-20 210 C 140 140, 240 230, 380 170 S 640 120, 870 180" />
+    <path d="M-20 235 C 160 170, 280 250, 420 195 S 660 150, 870 210" />
+    <path d="M-20 180 C 120 120, 260 190, 400 135 S 620 90, 870 140" />
+  </g>
+
+  <!-- Floating Star & Gene Accents -->
+  <g fill="#ffffff" fill-opacity="0.18">
+    <circle cx="85" cy="55" r="4" />
+    <circle cx="610" cy="40" r="5" />
+    <circle cx="510" cy="220" r="3.5" />
+    <circle cx="340" cy="35" r="3" />
+    <circle cx="790" cy="190" r="4" />
+  </g>
+
+  <!-- Left Text Content -->
+  <g font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif">
+    <!-- Field Eyebrow -->
+    <text x="50" y="70" fill="#a3e3b7" font-size="13" font-weight="700" letter-spacing="2.5">HORTICULTURAL GENOMICS & MULTI-OMICS</text>
+    
+    <!-- Primary Scientist Name -->
+    <text x="48" y="125" fill="#ffffff" font-size="38" font-weight="800" letter-spacing="0.5">Vivek Yadav, PhD</text>
+    
+    <!-- Title and Institute -->
+    <text x="50" y="165" fill="#e2efe6" font-size="16" font-weight="500">Associate Researcher & Post-Doc, Xinjiang Academy of Agricultural Sciences</text>
+    
+    <!-- Research Themes / Keywords -->
+    <text x="50" y="200" fill="#a8cbb2" font-size="14.5" font-weight="400">Grape Genomics · Domestication · Biotic Stress · Multi-Omics · Berry Quality</text>
+  </g>
+
+  <!-- Right Grape Cluster & Genomic Motif Artwork -->
+  <g transform="translate(685, 128)" filter="url(#glow)">
+    <!-- Outer Orbit Ring -->
+    <circle cx="0" cy="0" r="82" fill="#ffffff" fill-opacity="0.08" />
+    <circle cx="0" cy="0" r="68" fill="none" stroke="#ffffff" stroke-opacity="0.32" stroke-dasharray="4 6" stroke-width="1.6" />
+
+    <!-- Vine Stem & Tendril -->
+    <path d="M0 -34 C 0 -54, 18 -64, 30 -68" stroke="#8fd19e" stroke-width="4.5" fill="none" stroke-linecap="round" />
+    <!-- Grape Leaf -->
+    <path d="M0 -36 C -18 -48, -32 -38, -36 -24 C -20 -22, -6 -28, 0 -36 Z" fill="#58b36e" />
+
+    <!-- Grapes Layer 1 (Top) -->
+    <circle cx="-16" cy="-16" r="15" fill="#753a88" />
+    <circle cx="16" cy="-16" r="15" fill="#5c256f" />
+
+    <!-- Grapes Layer 2 (Middle) -->
+    <circle cx="-28" cy="10" r="14" fill="#6a307d" />
+    <circle cx="0" cy="8" r="15.5" fill="#8e44ad" />
+    <circle cx="28" cy="10" r="14" fill="#5c256f" />
+
+    <!-- Grapes Layer 3 (Lower Middle) -->
+    <circle cx="-14" cy="32" r="13.5" fill="#521f63" />
+    <circle cx="14" cy="32" r="13.5" fill="#753a88" />
+
+    <!-- Grapes Layer 4 (Bottom Tip) -->
+    <circle cx="0" cy="52" r="12" fill="#431853" />
+
+    <!-- Light Highlights on Berries -->
+    <circle cx="-19" cy="-20" r="3.5" fill="#ffffff" fill-opacity="0.28" />
+    <circle cx="-3" cy="4" r="4" fill="#ffffff" fill-opacity="0.32" />
+    <circle cx="11" cy="28" r="3" fill="#ffffff" fill-opacity="0.25" />
+  </g>
+</svg>
