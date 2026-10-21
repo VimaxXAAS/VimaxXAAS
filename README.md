@@ -1,6 +1,67 @@
 <div align="center">
 
-<img src="header.svg" alt="Vivek Yadav, PhD - Horticultural Genomics" width="100%" />
+<svg viewBox="0 0 850 240" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="academicGreen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#142e1d"/>
+      <stop offset="55%" stop-color="#1b4027"/>
+      <stop offset="100%" stop-color="#265835"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="850" height="240" rx="14" fill="url(#academicGreen)"/>
+
+  <!-- Wave and Genomic Lines -->
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.12" stroke-width="1.2">
+    <path d="M-20 190 C 140 130, 240 210, 380 155 S 640 110, 870 165" />
+    <path d="M-20 215 C 160 155, 280 230, 420 180 S 660 135, 870 195" />
+    <path d="M-20 165 C 120 105, 260 170, 400 120 S 620 75, 870 125" />
+  </g>
+
+  <!-- Star Accents -->
+  <g fill="#ffffff" fill-opacity="0.16">
+    <circle cx="85" cy="45" r="3"/>
+    <circle cx="580" cy="35" r="4"/>
+    <circle cx="480" cy="200" r="3"/>
+    <circle cx="310" cy="30" r="2.5"/>
+    <circle cx="770" cy="180" r="3.5"/>
+  </g>
+
+  <!-- Clean Typography -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <text x="48" y="60" fill="#a3e3b7" font-size="11" font-weight="600" letter-spacing="2">HORTICULTURAL GENOMICS &amp; MULTI-OMICS</text>
+    <text x="46" y="112" fill="#ffffff" font-size="34" font-weight="600" letter-spacing="0.3">Vivek Yadav, PhD</text>
+    <text x="48" y="150" fill="#e2efe6" font-size="14" font-weight="400">Associate Researcher &amp; Postdoctoral Fellow</text>
+    <text x="48" y="172" fill="#b9d5c2" font-size="13" font-weight="400">Xinjiang Academy of Agricultural Sciences, Urumqi, China</text>
+    <text x="48" y="204" fill="#88b594" font-size="12" font-weight="400" letter-spacing="0.2">Grapevine Genomics · Domestication · Biotic Stress · Metabolomics · Fruit Quality</text>
+  </g>
+
+  <!-- Grape Cluster & Genome Orbit Artwork -->
+  <g transform="translate(690, 120)">
+    <circle cx="0" cy="0" r="76" fill="#ffffff" fill-opacity="0.06"/>
+    <circle cx="0" cy="0" r="62" fill="none" stroke="#ffffff" stroke-opacity="0.25" stroke-dasharray="3 5" stroke-width="1.2"/>
+
+    <!-- Stem & Vine Leaf -->
+    <path d="M0 -30 C 0 -48, 16 -58, 26 -62" stroke="#8fd19e" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+    <path d="M0 -32 C -16 -42, -28 -32, -32 -20 C -18 -18, -5 -24, 0 -32 Z" fill="#58b36e"/>
+
+    <!-- Grapes -->
+    <circle cx="-14" cy="-14" r="13" fill="#6d357e"/>
+    <circle cx="14" cy="-14" r="13" fill="#542366"/>
+    <circle cx="-25" cy="8" r="12.5" fill="#5e286f"/>
+    <circle cx="0" cy="7" r="14" fill="#7d3b91"/>
+    <circle cx="25" cy="8" r="12.5" fill="#542366"/>
+    <circle cx="-13" cy="28" r="12" fill="#4a1c57"/>
+    <circle cx="13" cy="28" r="12" fill="#652c78"/>
+    <circle cx="0" cy="46" r="11" fill="#3c1547"/>
+
+    <!-- Specular Highlights -->
+    <circle cx="-17" cy="-18" r="3" fill="#ffffff" fill-opacity="0.28"/>
+    <circle cx="-3" cy="3" r="3.5" fill="#ffffff" fill-opacity="0.30"/>
+    <circle cx="10" cy="24" r="2.8" fill="#ffffff" fill-opacity="0.25"/>
+  </g>
+</svg>
 
 <br><br>
 
@@ -17,7 +78,7 @@
 
 ### 🧬 About Me
 
-I investigate the genetic architecture, evolutionary history, and stress adaptation of horticultural crops with a focus on **grapevine genomics (*Vitis vinifera*) and watermelon (*Citrullus lanatus*)**. My work integrates **haplotype-resolved genome assembly, transcriptomics, untargeted metabolomics, and functional genetics** to dissect disease resistance and fruit quality traits.
+I investigate the genetic architecture, evolutionary history, and stress adaptation of horticultural crops with a primary focus on **grapevine genomics (*Vitis vinifera*) and watermelon (*Citrullus lanatus*)**. My work integrates **haplotype-resolved genome assembly, transcriptomics, untargeted metabolomics, and functional genetics** to dissect disease resistance and fruit quality traits.
 
 | Research Domain | Key Focus & Scientific Questions |
 | :--- | :--- |
