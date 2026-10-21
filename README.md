@@ -1,9 +1,8 @@
-# <div align="center">
+<div align="center">
 
-# Dr. Vivek Yadav, PhD
-### Horticultural Genomics & Multi-Omics Specialist
-**Associate Researcher & Postdoctoral Fellow**  
-*Institute of Fruit and Vegetable Crops, Xinjiang Academy of Agricultural Sciences, Urumqi, China*
+<img src="header.svg" alt="Vivek Yadav, PhD - Horticultural Genomics" width="100%" />
+
+<br><br>
 
 [![Website](https://img.shields.io/badge/Website-vimaxxaas.github.io-1b4d2b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vimaxxaas.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-2842_Citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=y1F7RiUAAAAJ&hl=en)
